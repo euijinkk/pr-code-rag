@@ -1,0 +1,6 @@
+.env
+
+src/**.json
+github/**.json
+fixture/**.json
+node_modules
